@@ -1,0 +1,146 @@
+{
+    "name": "Unbound Tokens",
+    "logoURI": "https://i.ibb.co/5RqCxhD/unbound-logo.png",
+    "keywords": [
+        "Unbound",
+        "Unbound economy"
+    ],
+    "tags": {
+
+    },
+    "timestamp": "2020-08-27T00:00:00+00:00",
+    "tokens": [{
+            "chainId": 42,
+            "address": "0x9CD539Ac8Dca5757efAc30Cd32da20CD955e0f8B",
+            "symbol": "tDAI",
+            "name": " Dai Stablecoin",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+            "tags": []
+        },
+        {
+            "chainId": 42,
+            "address": "0xc1d7957dDdA47b0B50C57cfD2A8cc34F655E77c1",
+            "symbol": "tUSDT",
+            "name": "Tether",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+            "tags": []
+        },
+        {
+            "chainId": 42,
+            "address": "0xFB841B3f7a33999692e498Cac36D358632de93e8",
+            "symbol": "tUSDC",
+            "name": "USD Coin",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+            "tags": []
+        },
+        {
+            "chainId": 42,
+            "address": "0x24Cc33eBd310f9cBd12fA3C8E72b56fF138CA434",
+            "symbol": "tETH",
+            "name": " Wrapped Ether",
+            "decimals": 18,
+            "logoURI": "https://info.uniswap.org/static/media/eth.73dabb37.png",
+            "tags": [
+
+            ]
+        },
+        {
+            "chainId": 42,
+            "address": "0xA4aBDaE0C0f861c11b353f7929fe6dB48535eaB3",
+            "symbol": "tWBTC",
+            "name": "Wrapped Bitcoin",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+            "tags": []
+        },
+        {
+            "chainId": 42,
+            "address": "0x8Fd03756360EF44083a176a4f2b4a32928017417",
+            "symbol": "tLINK",
+            "name": "ChainLink",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
+            "tags": []
+        },
+        {
+            "chainId": 42,
+            "address": "0x92585Cb3cA40F89F95c53bEC41D38AA2e2F676cF",
+            "symbol": "tTOMOE",
+            "name": "TomoChain",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x05D3606d5c81EB9b7B18530995eC9B29da05FaBa/logo.png",
+            "tags": []
+        },
+        {
+            "chainId": 42,
+            "address": "0x4BB9af00bb5B1582D5D4f3e91ED2F1727EC9a30D",
+            "symbol": "tENJ",
+            "name": "Enjin Coin",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c/logo.png",
+            "tags": []
+        },
+        {
+            "chainId": 42,
+            "address": "0x4563406082E5fA14f4D2b24F20647566A40F331E",
+            "symbol": "tUNI",
+            "name": "Uniswap",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png",
+            "tags": []
+        },
+        {
+            "chainId": 42,
+            "address": "0x258e3d61dB1E95A6553645d4B0C1C6917E8174f5",
+            "symbol": "tTSLA",
+            "name": "Tesla Synthetic Coin",
+            "decimals": 18,
+            "logoURI": "https://www.logodesignlove.com/images/monograms/tesla-logo-01.jpg",
+            "tags": []
+        },
+        {
+            "chainId": 42,
+            "address": "0x5214d4F53A335E141fBE016834b7ecd04e8a7C9F",
+            "symbol": "tDGX",
+            "name": "Digix Gold",
+            "decimals": 18,
+            "logoURI": "https://miro.medium.com/max/2054/1*Zgct9ymKTG36TxhVdSO6uQ.png",
+            "tags": []
+        },
+        {
+            "chainId": 42,
+            "address": "0xF436D2cCC1183F5DE8dF21a5D77932D07234ff7e",
+            "symbol": "tAAPL",
+            "name": "Apple Synthetic Coin",
+            "decimals": 18,
+            "logoURI": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/647px-Apple_logo_black.svg.png",
+            "tags": []
+        },
+        {
+            "chainId": 42,
+            "address": "0xa729D5cA5BcE0d275B69728881f5bB86511EA70B",
+            "symbol": "UND",
+            "name": "Unbound Dollars",
+            "decimals": 18,
+            "logoURI": "https://gamma.unbound.finance/_nuxt/img/und.e52ca44.webp",
+            "tags": []
+        },
+        {
+            "chainId": 42,
+            "address": "0xC692bF3B0525FdfCD52982075D22269de0BcA609",
+            "symbol": "uETH",
+            "name": "Unbound Ethers",
+            "decimals": 18,
+            "logoURI": "https://testnet.unbound.finance/_nuxt/img/uEth.a8ced22.svg",
+            "tags": []
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 3,
+        "patch": 0
+    }
+}
